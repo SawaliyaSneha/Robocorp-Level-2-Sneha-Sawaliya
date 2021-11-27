@@ -1,6 +1,13 @@
-# Robocorp-Level-2-Sneha-Sawaliya
+# Template: Standard Robot Framework
 
-The bot will download csv file which contains order to be placed on RobotSpareBin website.
-URL for csv file will be given by user in Dialog box
-By opening RobotSpareBin website on available browser data from csv file ingested in displayed form and preview robot and order it
-After successful order the receipt and image of the robot will be scraped and saved as pdf 
+Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+
+This template robot:
+
+- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
+- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
+- Provides a simple task template to start from (`tasks.robot`).
+
+## Learning materials
+
+- [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
